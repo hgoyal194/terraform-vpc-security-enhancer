@@ -1,0 +1,7 @@
+anthropic==0.49.0
+gitpython==3.1.44
+matplotlib==3.10.1
+networkx==3.4.2
+python-hcl2==6.1.1
+tiktoken==0.9.0
+tqdm==4.67.1
