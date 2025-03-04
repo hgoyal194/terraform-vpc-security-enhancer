@@ -37,7 +37,7 @@ This tool analyzes Terraform AWS VPC configurations, identifies security improve
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/terraform-vpc-security-enhancer.git
+   git clone https://github.com/hgoyal194/terraform-vpc-security-enhancer.git
    cd terraform-vpc-security-enhancer
    ```
 
